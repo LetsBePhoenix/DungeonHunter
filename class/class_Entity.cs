@@ -13,17 +13,11 @@ class Entity
         this.DMG = DMG;
         this.HP = HP;
     }
+    // Effekte
+    
     // Funktionen
     public void Attack(Player Player)
     {
         Player.TakeDmg(this.DMG);
-    }
-}
-
-class Wolf : Entity
-{
-    public Wolf(string Name, string ID, int DMG, int HP) : base(Name, ID, DMG, HP)
-    {
-
     }
 }

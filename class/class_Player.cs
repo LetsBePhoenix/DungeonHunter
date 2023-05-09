@@ -20,4 +20,15 @@ class Player
     {
         this.HP -= ammount;
     }
+    public void Attack(Weapon weapon, Entity opponent)
+    {
+        if (opponent.HP - weapon.Dmg > 0) 
+        {
+            opponent.HP -= weapon.Dmg;
+        }
+        else
+        {
+            opponent.HP = 0;
+        }
+    }
 }

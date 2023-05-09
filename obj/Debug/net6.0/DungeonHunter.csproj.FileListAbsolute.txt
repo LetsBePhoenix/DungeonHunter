@@ -1,0 +1,15 @@
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\bin\Debug\net6.0\DungeonHunter.exe
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\bin\Debug\net6.0\DungeonHunter.deps.json
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\bin\Debug\net6.0\DungeonHunter.runtimeconfig.json
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\bin\Debug\net6.0\DungeonHunter.dll
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\bin\Debug\net6.0\DungeonHunter.pdb
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.csproj.AssemblyReference.cache
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.AssemblyInfoInputs.cache
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.AssemblyInfo.cs
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.csproj.CoreCompileInputs.cache
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.dll
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\refint\DungeonHunter.dll
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.pdb
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\DungeonHunter.genruntimeconfig.cache
+C:\Users\fbrinke\Documents\GitHub\DungeonHunter\obj\Debug\net6.0\ref\DungeonHunter.dll
