@@ -1,16 +1,17 @@
-class Item
+class Amor
 {
     // Eigenschaften
     public string Name { get; set; }
     public string ID { get; set; }
     public int Ammount { get; set; }
-    public int Price { get; set; }
+    public int Secure { get; set; }
     // Konstruktor
-    public Item(string Name, string ID, int Ammount, int price)
+    public Amor(string Name, string ID, int Ammount, int Secure)
     {
         this.Name = Name;
         this.ID = ID;
         this.Ammount = Ammount;
-        Price = price;
+        this.Secure = Secure;
     }
+    // Funktionen
 }
